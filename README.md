@@ -4,9 +4,10 @@
 1. [Project Overview](#project-overview)
 2. [Development Team](#development-team)
 3. [Branches and Features](#branches-and-features)
-4. [Lessons Learned](#lessons-learned)
-5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
+4. [Git Commands used](#git-commands-used)
+5. [Lessons Learned](#lessons-learned)
+6. [Project Structure](#project-structure)
+7. [Contributing](#contributing)
 
 ---
 
